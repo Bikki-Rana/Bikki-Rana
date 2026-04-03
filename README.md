@@ -1,44 +1,47 @@
-# Hi 👋, I'm Bikki Kumar Rana
-
-🤖 Machine Learning Learner  
-💻 Python | C | DBMS  
-📊 Data Science Enthusiast  
-📈 Marketing & Sales Mindset  
-🚀 Entrepreneurship & Business Enthusiast  
+<h1 align="center">Hi 👋, I'm Bikki Kumar Rana</h1>
+<h3 align="center">🚀 Aspiring ML Engineer | AI Builder | Business Mindset</h3>
 
 ---
 
-## 👨‍💻 About Me
-- 🌱 Currently learning: Machine Learning & Data Science  
-- 🔭 Working on: AI-based Smart Attendance System (Face Recognition + Liveness Detection)  
-- 💡 Interested in: Business, Startups & Technology  
-- 📊 Passionate about solving real-world problems using AI & Data  
-- 🤝 Open to collaboration on projects  
+## 🧠 About Me
+- 🤖 Currently learning **Machine Learning & Data Science**
+- 🔭 Building **AI Smart Attendance System (Face Recognition + Liveness Detection)**
+- 💡 Strong interest in **Startups, Business & Technology**
+- 📊 Love solving real-world problems using **AI + Data**
+- 🤝 Open to collaborations & innovative projects
 
 ---
 
-## 🛠️ Skills
-- Programming: Python, C  
-- Database: DBMS, SQL  
-- Data Science: Pandas, NumPy (learning)  
-- Machine Learning: Beginner (models, basics)  
-- Business: Marketing, Sales, Entrepreneurship  
+## ⚙️ Tech Stack
+💻 **Languages:** Python, C  
+🗄️ **Database:** DBMS, SQL  
+📊 **Data Science:** Pandas, NumPy (Learning)  
+🤖 **ML:** Beginner (Models, Concepts)  
+📈 **Business Skills:** Marketing, Sales, Entrepreneurship  
 
 ---
 
-## 📂 Projects
-- 🤖 AI Smart Attendance System (Face Recognition + Liveness Detection)  
-- 📊 Data Analysis Projects (Coming Soon)  
-- 🌐 Mini Applications using Python & C  
-- 🗄️ DBMS-based Projects  
+## 🚀 Featured Project
+### 🤖 AI Smart Attendance System
+- Face Recognition based Attendance  
+- Liveness Detection (Anti-spoofing)  
+- Built using Python & AI concepts  
+- Project Link: Coming Soon  
 
 ---
 
-## 📫 Connect with Me
-- 📧 Email: baquassofficial@gmail.com 
+## 📈 Current Focus
+- 📚 Learning Machine Learning deeply  
+- 🧪 Building real-world AI projects  
+- 🚀 Exploring startup ideas  
+
+---
+
+## 🌐 Connect With Me
+- 📧 Email: baquassofficial@gmail.com  
 - 💼 LinkedIn: Coming Soon  
 
 ---
 
-## ⚡ Fun Fact
-I love combining AI + Business ideas to build impactful real-world solutions 🚀
+## ⚡ Mindset
+> "I believe in combining Technology + Business to build impactful solutions."
