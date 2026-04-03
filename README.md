@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Bikki Kumar Rana
 
-<!--
-**Bikki-Rana/Bikki-Rana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 Machine Learning Learner  
+💻 Python | C | DBMS  
+📊 Data Science Enthusiast  
+📈 Marketing & Sales Mindset  
+🚀 Entrepreneurship & Business Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🌱 Currently learning: Machine Learning & Data Science  
+- 🔭 Working on: AI-based Smart Attendance System (Face Recognition + Liveness Detection)  
+- 💡 Interested in: Business, Startups & Technology  
+- 📊 Passionate about solving real-world problems using AI & Data  
+- 🤝 Open to collaboration on projects  
+
+---
+
+## 🛠️ Skills
+- Programming: Python, C  
+- Database: DBMS, SQL  
+- Data Science: Pandas, NumPy (learning)  
+- Machine Learning: Beginner (models, basics)  
+- Business: Marketing, Sales, Entrepreneurship  
+
+---
+
+## 📂 Projects
+- 🤖 AI Smart Attendance System (Face Recognition + Liveness Detection)  
+- 📊 Data Analysis Projects (Coming Soon)  
+- 🌐 Mini Applications using Python & C  
+- 🗄️ DBMS-based Projects  
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: your-linkedin-link  
+
+---
+
+## ⚡ Fun Fact
+I love combining AI + Business ideas to build impactful real-world solutions 🚀
