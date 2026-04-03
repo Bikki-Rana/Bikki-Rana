@@ -35,8 +35,8 @@
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: your-linkedin-link  
+- 📧 Email: baquassofficial@gmail.com 
+- 💼 LinkedIn: Coming Soon  
 
 ---
 
