@@ -13,11 +13,18 @@
 ---
 
 ## ⚙️ Tech Stack
-💻 **Languages:** Python, C  
-🗄️ **Database:** DBMS, SQL  
-📊 **Data Science:** Pandas, NumPy (Learning)  
-🤖 **ML:** Beginner (Models, Concepts)  
-📈 **Business Skills:** Marketing, Sales, Entrepreneurship  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,mysql" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
