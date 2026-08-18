@@ -21,7 +21,7 @@
 
 ## 🧠 Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,c++,tensorflow,opencv,postgresql,typescript,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,c,tensorflow,opencv,postgresql,typescript,javascript,html,css" />
 </p>
 
 ---
