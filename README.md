@@ -31,7 +31,7 @@
 - Face Recognition based Attendance  
 - Liveness Detection (Anti-spoofing)  
 - Built using Python & AI  
-- 🚧 Project Link: Coming Soon  
+- 🚧 Project Link: https://github.com/Bikki-Rana/ai-smart-attendance-system  
 
 ---
 
