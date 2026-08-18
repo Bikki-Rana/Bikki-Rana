@@ -40,10 +40,9 @@
   <a href="mailto:baquassofficial@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-Coming Soon-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+  <a href="https://www.linkedin.com/in/bikki-kumar-rana-867b22380">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
 ---
 
