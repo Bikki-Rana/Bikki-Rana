@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bikki-rana/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/bikki-kumar-rana-867b22380/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:bikkikumarrana0@gmail.com">Email</a> &nbsp;·&nbsp;
   <a href="https://x.com/Bikkii_official">X</a> &nbsp;·&nbsp;
   <a href="https://sundarihub.in">Live work: SundariHub</a>
@@ -42,9 +42,7 @@
 <h3 align="center">Telemetry</h3>
 
 <p align="center">
-  <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Bikki-Rana&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=8957E5&text_color=8B949E&ring_color=58A6FF&count_private=true&include_all_commits=true"/>
-  &nbsp;
-  <img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikki-Rana&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&langs_count=6"/>
+  <img src="assets/telemetry.svg" alt="Portfolio telemetry" width="100%"/>
 </p>
 
 <br/>
