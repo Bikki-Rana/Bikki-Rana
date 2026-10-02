@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hero.svg" alt="Bikki Kumar Rana · Full-Stack + AI Developer" width="100%"/>
+  <img src="assets/hero.svg" alt="Bikki Kumar Rana · Full-Stack + AI Developer" width="100%"/>
 </p>
 
 <p align="center">
@@ -9,50 +9,37 @@
   <a href="https://sundarihub.in">Live work: SundariHub</a>
 </p>
 
----
+<br/>
 
-### `01` &nbsp; About
+<p align="center">
+  I build AI-powered products end to end: the model, the backend, and the interface people actually touch.<br/>
+  Computer vision, semantic search and full-stack web, built to run in the real world, not just in a notebook.
+</p>
 
-I build AI-powered products end to end: the model, the backend, and the interface people actually touch. My work sits where computer vision, semantic search, and full-stack web meet, and I care most about things that run in the real world, not just in a notebook.
+<br/>
 
-I'm based in Ranchi, India, and I'm looking for SDE / Full-Stack roles.
+<h3 align="center">Selected work</h3>
 
----
+<p align="center">
+  <img src="assets/projects.svg" alt="Featured projects" width="100%"/>
+</p>
 
-### `02` &nbsp; Selected work
+<p align="center">
+  <a href="https://github.com/Bikki-Rana/ai-smart-attendance-system">AI Smart Attendance System ↗</a> &nbsp;·&nbsp;
+  <a href="https://sundarihub.in">SundariHub (live) ↗</a>
+</p>
 
-**01 &nbsp;[AI Smart Attendance System](https://github.com/Bikki-Rana/ai-smart-attendance-system)**
-Face-recognition attendance with role-based admin and student workflows, backed by MySQL records.
-`Python · OpenCV · face_recognition · MySQL`
+<br/>
 
-**02 &nbsp;CampusRide**
-Ride-pooling platform with trip posting, route matching, and notifications.
-`Supabase · PostgreSQL`
+<h3 align="center">Toolbox</h3>
 
-**03 &nbsp;CodeAlpha_AI_Internship**
-Two AI projects from my internship: video object tracking and a semantic-search FAQ chatbot.
-`Python · OpenCV · FastAPI · sentence-transformers`
+<p align="center">
+  <img src="assets/marquee.svg" alt="Tech stack" width="100%"/>
+</p>
 
-**04 &nbsp;[SundariHub](https://sundarihub.in)**
-Production website designed, built, and delivered for a client.
-`Next.js · React`
+<br/>
 
----
-
-### `03` &nbsp; Toolbox
-
-```text
-languages   python   c   c++   javascript   typescript   sql
-backend     django   fastapi   node.js
-frontend    react   next.js   three.js
-vision/ai   opencv   face_recognition   sentence-transformers   numpy   pandas
-data        mysql   postgresql   supabase
-tools       git   github   docker   vs code
-```
-
----
-
-### `04` &nbsp; Telemetry
+<h3 align="center">Telemetry</h3>
 
 <p align="center">
   <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Bikki-Rana&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=8957E5&text_color=8B949E&ring_color=58A6FF&count_private=true&include_all_commits=true"/>
