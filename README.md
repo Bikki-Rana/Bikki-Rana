@@ -3,10 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bikki-rana/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:bikkikumarrana0@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://x.com/Bikkii_official">X</a> &nbsp;·&nbsp;
-  <a href="https://sundarihub.in">Live work: SundariHub</a>
+  <a href="https://www.linkedin.com/in/bikki-rana/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-Connect-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0F18"/></a>
+  &nbsp;
+  <a href="mailto:bikkikumarrana0@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-Say%20hello-8957E5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F18"/></a>
+  &nbsp;
+  <a href="https://x.com/Bikkii_official"><img alt="X" src="https://img.shields.io/badge/X-Follow-24364F?style=for-the-badge&logo=x&logoColor=white&labelColor=0A0F18"/></a>
+  &nbsp;
+  <a href="https://sundarihub.in"><img alt="SundariHub live" src="https://img.shields.io/badge/SUNDARIHUB-Live%20%E2%86%97-238636?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0A0F18"/></a>
 </p>
 
 <br/>
@@ -25,8 +28,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Bikki-Rana/ai-smart-attendance-system">AI Smart Attendance System ↗</a> &nbsp;·&nbsp;
-  <a href="https://sundarihub.in">SundariHub (live) ↗</a>
+  <a href="https://github.com/Bikki-Rana/ai-smart-attendance-system"><img alt="AI Smart Attendance System repo" src="https://img.shields.io/badge/VIEW%20REPO-AI%20Smart%20Attendance%20System%20%E2%86%97-1F6FEB?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0F18"/></a>
+  &nbsp;
+  <a href="https://sundarihub.in/"><img alt="SundariHub live site" src="https://img.shields.io/badge/LIVE%20SITE-SundariHub.in%20%E2%86%97-238636?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0A0F18"/></a>
 </p>
 
 <br/>
