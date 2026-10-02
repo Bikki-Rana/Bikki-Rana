@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/bikki-rana/)">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/bikki-rana/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:bikkikumarrana0@gmail.com">Email</a> &nbsp;·&nbsp;
   <a href="https://x.com/Bikkii_official">X</a> &nbsp;·&nbsp;
   <a href="https://sundarihub.in">Live work: SundariHub</a>
