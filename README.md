@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="Bikki Kumar Rana · Full-Stack + AI Developer" width="100%"/>
+  <img src="hero.svg" alt="Bikki Kumar Rana · Full-Stack + AI Developer" width="100%"/>
 </p>
 
 <p align="center">
