@@ -32,6 +32,7 @@
   <a href="https://github.com/Bikki-Rana/ai-smart-attendance-system"><img alt="AI Smart Attendance System repo" src="https://img.shields.io/badge/VIEW%20REPO-AI%20Smart%20Attendance%20System%20%E2%86%97-1F6FEB?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0F18"/></a>
   &nbsp;
   <a href="https://sundarihub.in/"><img alt="SundariHub live site" src="https://img.shields.io/badge/LIVE%20SITE-SundariHub.in%20%E2%86%97-238636?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0A0F18"/></a>
+  <a href="https://ai-chaos-website-tester-murex.vercel.app/projects"><img alt="AI Chaos Website Tester Live" src="https://img.shields.io/badge/AI%20CHAOS%20WEBSITE%20TESTER-Live%20%E2%86%97-238636?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0A0F18"/></a>
 </p>
 
 <br/>
