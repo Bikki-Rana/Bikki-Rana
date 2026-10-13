@@ -10,6 +10,7 @@
   <a href="https://x.com/Bikkii_official"><img alt="X" src="https://img.shields.io/badge/X-Follow-24364F?style=for-the-badge&logo=x&logoColor=white&labelColor=0A0F18"/></a>
   &nbsp;
   <a href="https://sundarihub.in"><img alt="SundariHub live" src="https://img.shields.io/badge/SUNDARIHUB-Live%20%E2%86%97-238636?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0A0F18"/></a>
+<a href="https://ai-chaos-website-tester-murex.vercel.app/projects"><img alt="AI Chaos Website Tester Live" src="https://img.shields.io/badge/AI%20CHAOS%20WEBSITE%20TESTER-Live%20%E2%86%97-238636?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0A0F18"/></a>
 </p>
 
 <br/>
